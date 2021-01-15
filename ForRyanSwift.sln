@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForRyanSwift", "ForRyanSwift\ForRyanSwift.csproj", "{B6A3E0AF-76CA-4D7D-A3F7-CBC1614FF3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A3E0AF-76CA-4D7D-A3F7-CBC1614FF3EA}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B6A3E0AF-76CA-4D7D-A3F7-CBC1614FF3EA}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B6A3E0AF-76CA-4D7D-A3F7-CBC1614FF3EA}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B6A3E0AF-76CA-4D7D-A3F7-CBC1614FF3EA}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
